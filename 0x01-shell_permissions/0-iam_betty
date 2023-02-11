@@ -1,2 +1,2 @@
 #!/bin/bash
-chown Nabil-umar betty
+su betty
